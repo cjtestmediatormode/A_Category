@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'A_Category'
-  s.version          = '0.1.4'
-  s.summary          = 'module A 的支持方法'
+  s.version          = '0.1.1'
+  s.summary          = 'module A_Category'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-    module A 的支持方法,建议用私有repo
+ 模块A的便捷方法,依赖于CTMediator
                        DESC
 
   s.homepage         = 'https://github.com/cjtestmediatormode/A_Category.git'
@@ -38,5 +38,6 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'CTMediator'
+  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'CTMediator'
 end

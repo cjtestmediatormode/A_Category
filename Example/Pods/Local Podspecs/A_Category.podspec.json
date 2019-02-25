@@ -1,8 +1,8 @@
 {
   "name": "A_Category",
   "version": "0.1.0",
-  "summary": "module A 的支持方法",
-  "description": "module A 的支持方法,建议用私有repo",
+  "summary": "module A_Category",
+  "description": "模块A的便捷方法,依赖于CTMediator",
   "homepage": "https://github.com/cjtestmediatormode/A_Category.git",
   "license": {
     "type": "MIT",
