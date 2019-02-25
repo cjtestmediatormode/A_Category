@@ -1,5 +1,6 @@
 PODS:
-  - A_Category (0.1.0)
+  - A_Category (0.1.0):
+    - CTMediator
   - CTMediator (25)
 
 DEPENDENCIES:
@@ -15,9 +16,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  A_Category: d99b36670d43093ca6049354b20bb85207ef0473
+  A_Category: f72d0c4a49e1dd4fd2cf5bc0c35ea44a6df278e7
   CTMediator: 830c1fc204b3a6abf2a059510c7380f56343da0f
 
-PODFILE CHECKSUM: 4b5e49b59741e2455e77c272c4a9ff6329156201
+PODFILE CHECKSUM: d27fd3420d0d9598ae9551667d6c59a3c5502ca8
 
 COCOAPODS: 1.5.3
