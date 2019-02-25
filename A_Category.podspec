@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'A_Category'
-  s.version          = '0.1.2'
+  s.version          = '0.1.4'
   s.summary          = 'module A 的支持方法'
 
 # This description is used to generate tags and improve search results.
